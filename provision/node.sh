@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Install test version of docker engine, also shell completions
 apt-get install -y -q wget tree ipvsadm
 apt-get update
 apt-get upgrade
