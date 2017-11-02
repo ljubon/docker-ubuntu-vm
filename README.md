@@ -6,4 +6,6 @@ Installed docker services:
 2) docker-compose
 3) 
 
-vagrant up m-1
+
+# Run following command
+- vagrant up m-1
