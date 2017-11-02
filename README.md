@@ -8,4 +8,4 @@ Installed docker services:
 
 
 # Run following command
-- vagrant up m-1
+- vagrant up node1
